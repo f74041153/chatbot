@@ -6,6 +6,7 @@
 4. 儲存修改
 5. 執行 python3 art.py 
 ## How to interact? ##
-1.
-2.
-3.
+1. bot的初始狀態為idle
+2. user輸入字串來換醒bot
+3. bot狀態由idle轉換到onwork
+4. bot會問
