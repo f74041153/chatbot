@@ -1,5 +1,5 @@
 # chatbot
-## How to run? ##
+## How to run?(linux環境下) ##
 1.
 2.
 3.
