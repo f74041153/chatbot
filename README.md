@@ -1,6 +1,11 @@
 # chatbot
 ## 狀態圖 ##
-![Alt text]state_diagram.jpg
+![Alt text](state_diagram.jpg)
+## 結果圖 ##
+### 有找到
+![Alt text](result1.jpg)
+### 沒找到
+![Alt text](result2.jpg)
 ## How to run?(linux環境下) ##
 1. cmdline 執行 ./ngrok http 5000
 2. 複製https網址
