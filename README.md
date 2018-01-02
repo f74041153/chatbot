@@ -11,3 +11,4 @@
 3. 回答活動類型，"exhibit"/"music"/"drama"/"dance"/"movie"輸入字串擇一
 4. 回答時段，"morning"/"afternoon"/"evening"輸入字串擇一
 5. bot會根據user輸入的地點類型時段，回傳當日符合要求的活動
+## 功能說明 ##
