@@ -1,6 +1,7 @@
 # chatbot
-## How to run and interact? ##
+## How to run? ##
 
 1.
 2.
 3.
+## How to interact? ##
