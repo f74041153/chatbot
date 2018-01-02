@@ -17,7 +17,7 @@
 * 並回傳符合資料和詳細資訊連結
 ## 程式說明 ##
 * 在fsm.py內的爬蟲程式
-  def crawl(self,update,city,kind,time):
+    def crawl(self,update,city,kind,time):
         chat_id=update.message.chat_id
         i=datetime.datetime.now()
         date_start=str(i.year)+'/'+str(i.month)+'/'+str(i.day)
@@ -61,4 +61,3 @@
             update.message.reply_text("see you next time!")
         except:
             print("error")
-
