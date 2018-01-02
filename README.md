@@ -6,7 +6,8 @@
 4. 儲存修改
 5. 執行 python3 art.py 
 ## How to interact? ##
-1. bot的初始狀態為idle
-2. user輸入字串來換醒bot
-3. bot狀態由idle轉換到onwork
-4. bot會問
+1. 以"hi"字串喚醒bot
+2. 回答目標地，"newtaipei"/"taipei"/"kh"輸入字串擇一
+3. 回答活動類型，"exhibit"/"music"/"drama"/"dance"/"movie"輸入字串擇一
+4. 回答時段，"morning"/"afternoon"/"evening"輸入字串擇一
+5. bot會根據user輸入的地點類型時段，回傳當日符合要求的活動
