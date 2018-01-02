@@ -1,6 +1,6 @@
 # chatbot
 ## 狀態圖 ##
-
+![Alt text]state_diagram.jpg
 ## How to run?(linux環境下) ##
 1. cmdline 執行 ./ngrok http 5000
 2. 複製https網址
